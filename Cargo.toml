@@ -1,6 +1,6 @@
 [package]
 name = "serde-request-envelope"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 description = "A serde request envelope with named type and data fields."
