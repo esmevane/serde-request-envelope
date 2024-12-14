@@ -6,3 +6,4 @@ license = "MIT"
 description = "A serde request envelope with named type and data fields."
 
 [dependencies]
+serde = "1.0.216"
