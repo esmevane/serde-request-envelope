@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2](https://github.com/esmevane/serde-request-envelope/compare/v0.1.1...v0.1.2) - 2024-12-17
+
+### Added
+
+- expose type name fn (#2)
+
 ## [0.1.1](https://github.com/esmevane/serde-request-envelope/compare/v0.1.0...v0.1.1) - 2024-12-14
 
 ### Other
