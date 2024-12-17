@@ -37,3 +37,4 @@ mod request;
 mod support;
 
 pub use request::Request;
+pub use support::type_name;
